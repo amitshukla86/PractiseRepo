@@ -12,7 +12,7 @@ system.out.println("Test Texting push");
 
 }
 
-public void Test() {
+public void Testing() {
 
 system.out.println("Test Text");
 system.out.println("Test Texting push");

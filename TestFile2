@@ -22,6 +22,7 @@ system.out.println("Another Test Text from 2nd function");
 public void Test3() {
 
 system.out.println("Test Text from 2nd function");
+system.out.println("Test Text from 2nd function");
 
 }
 
