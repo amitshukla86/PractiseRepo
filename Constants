@@ -1,0 +1,9 @@
+//Test constants 
+
+public static void main() {
+
+path = "c:/temp/test";
+path1 = "c:/temp/test1";
+path2 = "c:/temp/test2";
+
+}
