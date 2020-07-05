@@ -8,6 +8,14 @@ String text;
 public void Test() {
 
 system.out.println("Test Text");
+system.out.println("Test Texting push");
+
+}
+
+public void Test() {
+
+system.out.println("Test Text");
+system.out.println("Test Texting push");
 
 }
 

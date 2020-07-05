@@ -7,7 +7,7 @@ String text1;
 
 public void Test1() {
 
-system.out.println("Test Text from 2nd function");
+system.out.println("Test Text from 2nd function again");
 
 }
 
